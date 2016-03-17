@@ -1,0 +1,28 @@
+name: Footwear
+favicon: null
+layout_spectrum: 0.7093319250270724
+typography_spectrum: 0.3110016700811684
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3336660098284483
+  lightness: 0.04640494496561587
+  saturation: 0.7194604293908924
+  rhythmicContrast: 0.7306016655638814
+purpose: []
